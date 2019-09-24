@@ -1,0 +1,53 @@
+body {
+
+	font-family: sans-serif;
+	margin: 0px;
+}
+
+main {
+ margin-bottom: 20px;
+}
+
+main .row {
+
+}
+
+h1 {
+
+	font-size: 30px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+
+	margin-bottom: -10px;
+}
+
+.header {
+
+	background-color: #e3b468;
+	height: 100px;
+	width: 100%;
+}
+
+.box {
+
+  height: 400px;
+  text-align: left;
+  border: 1px solid #ababab;
+  margin-bottom: 20px;
+}
+
+.box .card{
+
+	width: 100%;
+}
+
+.box .details{
+
+	  padding-left: 20px;
+}
